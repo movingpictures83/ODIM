@@ -1,0 +1,2 @@
+Prefix plugins/ODIM/example/
+Plugin ODIM inputfile parameters.txt outputfile none

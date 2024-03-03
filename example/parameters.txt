@@ -1,0 +1,5 @@
+nn	densenet10
+out_dataset	Imagenet
+magnitude	0.0014
+temperature	1000
+gpu	0
